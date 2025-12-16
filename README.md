@@ -11,7 +11,7 @@
 <a href="https://fb.com/swtprince4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="swtprince4u" height="30" width="40" /></a>
 <a href="https://instagram.com/nikon_lad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikon_lad" height="30" width="40" /></a>
 <a href="https://twitter.com/anishmahanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anishmahanta" height="30" width="40" /></a>
-<a href="https://youtube.com/gudulgaming7009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gudulgaming7009" height="30" width="40" /></a>
+<a href="https://youtube.com/@gudulgaming7009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gudulgaming7009" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

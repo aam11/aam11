@@ -1,10 +1,6 @@
 # Hi 👋, I'm Anish Aniket Mahanta
 
-### A passionate developer from around the world
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aam11&label=Profile views&color=0e75b6&style=flat" alt="aam11" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aam11" alt="aam11" /></a> </p>
+### An experienced Climate Data Analyst
 
 <p align="left"> <a href="https://twitter.com/anishmahanta" target="blank"><img src="https://img.shields.io/twitter/follow/anishmahanta?logo=twitter&style=for-the-badge" alt="anishmahanta" /></a> </p>
 

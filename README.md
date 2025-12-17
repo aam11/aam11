@@ -2,7 +2,7 @@
 
 Atmospheric & Climate Data Specialist | Geospatial Analytics | Hazard & Risk Modeling  
 
-I’m an atmospheric and climate data specialist with **4+ years of experience** transforming complex environmental datasets into **actionable insights** for natural hazard forecasting, climate resilience, and infrastructure risk modeling. My work spans **reanalysis data pipelines, numerical modeling, geospatial analytics, and automation**, with applications across wind energy, extreme weather, and climate risk assessment.  [oai_citation:0‡Resume_AnishAniketMahanta_WSP.pdf](sediment://file_0000000065807209a35864b320a06ea0)
+I’m an atmospheric and climate data specialist with **4+ years of experience** transforming complex environmental datasets into **actionable insights** for natural hazard forecasting, climate resilience, and infrastructure risk modeling. My work spans **reanalysis data pipelines, numerical modeling, geospatial analytics, and automation**, with applications across wind energy, extreme weather, and climate risk assessment.
 
 ---
 

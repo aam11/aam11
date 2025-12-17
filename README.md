@@ -1,27 +1,87 @@
-# 💫 About Me:
-I’m an atmospheric and climate data specialist with 4+ years of experience turning complex environmental datasets into actionable insights for natural hazard forecasting, climate risk modeling, and resilience planning. I work at the intersection of geospatial analysis, numerical modeling, and automation to build scalable, decision-ready solutions. 
+# 👋 Hi, I’m Anish Aniket Mahanta
 
+Atmospheric & Climate Data Specialist | Geospatial Analytics | Hazard & Risk Modeling  
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/swtprince4u) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikon_lad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aam11) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anishmahanta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anish.mahanta@wind-pioneers.com) 
-
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aam11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aam11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aam11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aam11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aam11&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I’m an atmospheric and climate data specialist with **4+ years of experience** transforming complex environmental datasets into **actionable insights** for natural hazard forecasting, climate resilience, and infrastructure risk modeling. My work spans **reanalysis data pipelines, numerical modeling, geospatial analytics, and automation**, with applications across wind energy, extreme weather, and climate risk assessment.  [oai_citation:0‡Resume_AnishAniketMahanta_WSP.pdf](sediment://file_0000000065807209a35864b320a06ea0)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aam11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔍 What I Work On
+- 🌪️ **Natural Hazard Modeling** – Cyclone & extreme wind modeling, hazard-specific simulations  
+- 🌍 **Climate & Reanalysis Data** – ERA5, ECMWF, GFS, NetCDF/GRIB pipelines  
+- 🗺️ **Geospatial & Remote Sensing** – GIS workflows, satellite & radar interpretation  
+- ⚙️ **Automation & APIs** – Scalable data ingestion, processing, and delivery systems  
+- 📊 **Forecast & Risk Analysis** – Bias correction, downscaling, and predictive insights  
+
+---
+
+## 🧠 Technical Skills
+
+**Programming & Data**
+- Python, R (Advanced), MATLAB (Intermediate), SQL  
+
+**Climate & Atmospheric Systems**
+- NetCDF, HDF5, GRIB, Zarr  
+- METAR, BUFKIT, GFS, ECMWF  
+- Numerical Weather Prediction (WRF), HYSPLIT  
+
+**GIS & Remote Sensing**
+- ArcGIS, QGIS, GDAL, CDO, NCO  
+
+**Modeling & Analytics**
+- Statistical modeling & downscaling  
+- ML-based bias correction (LSTM, CNN)  
+- Windographer  
+
+**Visualization**
+- Plotly, Leaflet, ggplot2  
+
+**DevOps & APIs**
+- Git, Docker, Google Cloud CI/CD  
+- Swagger, Postman, REST APIs, Plumber  
+
+---
+
+## 🏗️ Selected Projects
+
+### 🌬️ WindSync
+Automated reanalysis data acquisition and preprocessing for wind energy projects, reducing processing time by **75%** and eliminating **95% manual effort**.
+
+### 🌪️ Holland Wind Field Model
+Numerical model for cyclone/typhoon-induced wind profiles to support wind farm risk assessment.
+
+### 📦 NetCDF Maker
+R Shiny application converting raw CSV sensor data into standardized NetCDF formats for improved interoperability.
+
+### 🌦️ High-Resolution Atmospheric Dataset
+Improved forecast precision by **18%** using deep learning–based bias correction and spatial downscaling techniques.
+
+---
+
+## 🎓 Education
+- **M.Sc. Atmosphere & Ocean Sciences** – IIT Bhubaneswar  
+- **B.Sc. Geology** – St. Xavier’s College, Ranchi  
+
+---
+
+## 🧪 Research & Field Experience
+- Extreme rainfall variability & intraseasonal dynamics  
+- Kalman filtering (HPC project)  
+- Field work at IMD, NARL, and INCOIS  
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/aam11)
+[![X](https://img.shields.io/badge/X-black?logo=X&logoColor=white)](https://x.com/anishmahanta)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anish.mahanta@wind-pioneers.com)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aam11&theme=dark&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aam11&layout=compact&theme=dark)
+
+---
+
+> *Focused on building scientifically sound, production-ready climate intelligence systems for real-world decision-making.*

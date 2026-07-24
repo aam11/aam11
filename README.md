@@ -79,8 +79,8 @@ Improved forecast precision by **18%** using deep learning–based bias correcti
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aam11&theme=dark&show_icons=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aam11&layout=compact&theme=dark)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=aam11&theme=dark&show_icons=true&count_private=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=aam11&layout=compact&theme=dark)
 
 ---
 

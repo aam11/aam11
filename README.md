@@ -34,9 +34,6 @@ Extreme wind statistics for offshore sites. Holland vortex typhoon wind fields d
 **🛰️ sitestack**
 Stacks Earth-observation land surface temperature and precipitation timeseries for a point — twelve products across nine sources and five access mechanisms, normalised into one long-format schema with per-product zarr cubes on their native grids. Adding a new site is one YAML file.
 
-**🌊 AquaSentinel**
-Prototype dashboard for harmful algal bloom forecasting and alerting at coastal desalination intakes. Shows blooms drifting over a 5-day forecast and escalating alerts as they approach a plant. Demonstration build on synthetic data.
-
 **✈️ [meeting-airplane](https://github.com/aam11/meeting-airplane)**
 macOS background app in Swift that flies a banner plane across your screen five minutes before each Outlook meeting. Written because calendar notifications are too easy to ignore.
 
@@ -64,10 +61,27 @@ macOS background app in Swift that flies a banner plane across your screen five 
 
 ## 🎓 Background
 
-**M.Sc. Atmosphere & Ocean Sciences** — IIT Bhubaneswar
-**B.Sc. Geology** — St. Xavier's College, Ranchi
+### Education
 
-Research and field work on extreme rainfall variability and intraseasonal dynamics, Kalman filtering on an HPC project, and time at IMD, NARL and INCOIS.
+**M.Sc. Atmosphere & Ocean Sciences** — Indian Institute of Technology Bhubaneswar
+Dynamics, numerical modelling and ocean–atmosphere coupling; the grounding behind the hazard and reanalysis work above.
+
+**B.Sc. Geology** — St. Xavier's College, Ranchi
+Earth systems, field mapping and remote sensing — where the geospatial side started.
+
+### Research
+
+**Extreme rainfall variability & intraseasonal dynamics**
+Characterising how monsoon rainfall extremes vary on intraseasonal timescales, and what drives the swings.
+
+**Kalman filtering on HPC**
+Sequential state estimation applied to atmospheric data, run on high-performance computing infrastructure.
+
+### Field & Institutional Experience
+
+**India Meteorological Department (IMD)** — national operational forecasting and observation network
+**National Atmospheric Research Laboratory (NARL), Gadanki** — India's atmospheric radar and lidar facility
+**Indian National Centre for Ocean Information Services (INCOIS), Hyderabad** — operational ocean forecasting and marine advisories
 
 ---
 

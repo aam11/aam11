@@ -91,8 +91,6 @@ Sequential state estimation applied to atmospheric data, run on high-performance
 [![X](https://img.shields.io/badge/X-black?logo=X&logoColor=white)](https://x.com/anishmahanta)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anish.mahanta@wind-pioneers.com)
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=aam11&theme=dark&show_icons=true&count_private=true)
-
 ---
 
 > *Scientifically sound, production-ready climate intelligence for real-world decisions.*

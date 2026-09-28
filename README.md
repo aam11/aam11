@@ -79,7 +79,7 @@ Sequential state estimation applied to atmospheric data, run on high-performance
 
 ### Field & Institutional Experience
 
-**India Meteorological Department (IMD)** — national operational forecasting and observation network
+**India Meteorological Department (IMD)** — field training at India's national weather service
 **National Atmospheric Research Laboratory (NARL), Gadanki** — India's atmospheric radar and lidar facility
 **Indian National Centre for Ocean Information Services (INCOIS), Hyderabad** — operational ocean forecasting and marine advisories
 
@@ -92,7 +92,6 @@ Sequential state estimation applied to atmospheric data, run on high-performance
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anish.mahanta@wind-pioneers.com)
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=aam11&theme=dark&show_icons=true&count_private=true)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=aam11&layout=compact&theme=dark)
 
 ---
 
